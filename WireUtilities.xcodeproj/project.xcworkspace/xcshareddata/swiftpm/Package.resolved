@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WireSystem",
+        "repositoryURL": "https://github.com/billypchan/wire-ios-system",
+        "state": {
+          "branch": null,
+          "revision": "d9b2021583e38d6e0d46f29d2d876b89170e7f9a",
+          "version": null
+        }
+      },
+      {
+        "package": "WireTesting",
+        "repositoryURL": "https://github.com/billypchan/wire-ios-testing",
+        "state": {
+          "branch": "featrue/spm_xcframework",
+          "revision": "4d65d616200a444eb89c6ef60f32cdcdcd3ef278",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
